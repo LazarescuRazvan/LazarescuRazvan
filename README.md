@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LazarescuRazvan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front End Web Development
+- 👀 I’m interested in QA testing
+- 🌱 I’m currently learning QA tehnologies
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me gabrielrazvan69@yahoo.com
 
