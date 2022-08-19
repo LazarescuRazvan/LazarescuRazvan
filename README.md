@@ -2,7 +2,7 @@
 - 👀 I’m interested in QA testing
 - 🌱 I’m currently learning QA tehnologies
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me gabrielrazvan69@yahoo.com
+- 📫 How to reach me lazarescurazvangabriel@yahoo.com
 
 <!---
 LazarescuRazvan/LazarescuRazvan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
